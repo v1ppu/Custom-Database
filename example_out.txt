@@ -1,0 +1,17 @@
+% % New table classroom with column(s) name school Male created
+% Added 5 rows to classroom from position 0 to 4
+% Deleted 1 rows from classroom
+% Generated hash index for table classroom on column school, with 4 distinct keys
+% person emotion 
+name school 
+Jessica Harvard
+Emma MIT
+Printed 2 matching rows from classroom
+% New table universities with column(s) Name private large created
+% Added 2 rows to pets from position 0 to 1
+% Name school Male
+Stanford Stanford false 
+Printed 1 rows from joining universities to classroom
+% Table universities removed
+% Table classroom removed
+% Thanks for using!

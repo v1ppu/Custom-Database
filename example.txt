@@ -1,0 +1,19 @@
+#Testing Example
+CREATE classroom 3 string string bool name school Male
+INSERT INTO classroom 5 ROWS
+Jack Yale true
+Jessica Harvard false
+Adit MIT true
+Emma MIT false
+Hamilton Stanford true
+DELETE FROM classroom WHERE person = Adit
+GENERATE FOR classroom hash INDEX ON school
+PRINT FROM classroom 2 name school WHERE Male = false
+CREATE universities 3 string bool bool Name private large
+INSERT INTO universities 2 ROWS
+Berkley false true
+Stanford true true
+JOIN universities AND classroom WHERE Name = school AND PRINT 3 Name 1 school 2 Male 1
+REMOVE universities
+REMOVE classroom
+QUIT
