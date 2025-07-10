@@ -87,7 +87,8 @@ You can run the program and provide commands interactively or via input redirect
 - `main.cpp` — Entry point, command parsing
 - `table.h` / `table.cpp` — Table and database logic
 - `field.h` / `field.cpp` — Field and type handling
-- `example.txt` — Example input commands
+- `example.txt` — Example input file/commands
 - `example_out.txt` — Example output
+ - `Makefile` — Compiles project
 
-Note: Due to being part of a school project, and under copyright, crucial files for `Field.cpp`, `Field.h`, and `Makefile` will never be avaliable, and thus running this code under this GitHub will not work. The code provided is entirely my own, and provides the main logic behind the database design. 
+Note: Due to being part of a school project, and under copyright, crucial files for `Field.cpp`, and `Field.h` will never be avaliable, and thus running this code under this GitHub will not work. The code provided is entirely my own, and provides the main logic behind the database design. 
